@@ -1,2 +1,2 @@
 # cloudImage
-图床源
+image bed
